@@ -1,6 +1,7 @@
 # test-github traning 08.08.2017
 ### Editor : Jongseok. Jang
 
+### Date : 8.09.2017
 
 
 #### Requirements
