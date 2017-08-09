@@ -1,20 +1,26 @@
-# 2017.08.o09 Github Training
-
-> 장소 : 
-
-## Index
-
-* markdown
-	* test
-
-``` javascript
-var a  = 1;
-console.log (a)
-
-```
-
->인용은 이렇게 합니다.
+# test-github traning 08.08.2017
+### Editor : Jongseok. Jang
 
 
+
+#### Requirements
+- github
+- sourcetree
+- atom editor
+- java
+
+git:
+http://git-scm.com/download/win
+
+
+source-tree:
+https://www.sourcetreeapp.com/
+
+ATOM
+https://atom.io/
+
+Java
+http://www.oracle.com/technetwork/java/javase/downloads/
+index.html
 
 
