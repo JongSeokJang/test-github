@@ -29,7 +29,7 @@ public class Calculator {
 
 	}
 	private static int divide(int a, int b){
-		return a/b; // from master
+		return a/b; // solve problem
 	}
 
 
